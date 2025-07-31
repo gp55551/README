@@ -1,9 +1,9 @@
 <h2 align="left">
  <abc>
-  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> नमस्ते (Namaste)🙏🏻, I'm Gaurav Patnaik! <br>
+  <br>Hola ... नमस्ते (Namaste)🙏🏻  <br>
+  <br>I'm Gaurav Patnaik! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxbGhteXMyYWdyMHI0ejVya3M4NjVxdm92ZDhmb25iMXFqajhiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h2> 
 <p>
@@ -26,3 +26,8 @@
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 - 👨🏽‍💻 Pronouns: He/him
 - 📫 How to reach me **patnaikgaurav61@gmail.com**
+
+   <br>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdpMHFyZThwbDAwOXV1em9nNWNoOGp2b2ZxemM4aGp0Z2MzaWt5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" alt="Coder GIF" width="300">
+  
+  
